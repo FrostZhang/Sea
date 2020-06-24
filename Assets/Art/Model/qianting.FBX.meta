@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 64135a3343a2ef54980b0be414915e54
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box010
+    100004: Box143
+    100006: default
+    100008: diban
+    100010: dizuo
+    100012: shoubi
+    100014: shoubi01-1
+    100016: shoubi01-2
+    100018: shoubi01-3
+    100020: shoubi02-1
+    100022: shoubi02-2
+    100024: shoubi02-3
+    100026: zhu01
+    100028: zhu02
+    100030: "\u5BF9\u8C61001"
+    100032: "\u5BF9\u8C61003"
+    100034: "\u5BF9\u8C61004"
+    100036: "\u5BF9\u8C61005"
+    100038: "\u5BF9\u8C61006"
+    100040: "\u5BF9\u8C61007"
+    100042: "\u5BF9\u8C61008"
+    100044: "\u5BF9\u8C61009"
+    100046: "\u5BF9\u8C61010"
+    100048: "\u5BF9\u8C61011"
+    100050: "\u5BF9\u8C61016"
+    100052: "\u5BF9\u8C61017"
+    100054: "\u5BF9\u8C61018"
+    100056: "\u5BF9\u8C61019"
+    100058: "\u5BF9\u8C61020"
+    100060: "\u5BF9\u8C61021"
+    100062: "\u5BF9\u8C61022"
+    100064: "\u5BF9\u8C61023"
+    100066: "\u5BF9\u8C61024"
+    100068: "\u5BF9\u8C61025"
+    400000: //RootNode
+    400002: Box010
+    400004: Box143
+    400006: default
+    400008: diban
+    400010: dizuo
+    400012: shoubi
+    400014: shoubi01-1
+    400016: shoubi01-2
+    400018: shoubi01-3
+    400020: shoubi02-1
+    400022: shoubi02-2
+    400024: shoubi02-3
+    400026: zhu01
+    400028: zhu02
+    400030: "\u5BF9\u8C61001"
+    400032: "\u5BF9\u8C61003"
+    400034: "\u5BF9\u8C61004"
+    400036: "\u5BF9\u8C61005"
+    400038: "\u5BF9\u8C61006"
+    400040: "\u5BF9\u8C61007"
+    400042: "\u5BF9\u8C61008"
+    400044: "\u5BF9\u8C61009"
+    400046: "\u5BF9\u8C61010"
+    400048: "\u5BF9\u8C61011"
+    400050: "\u5BF9\u8C61016"
+    400052: "\u5BF9\u8C61017"
+    400054: "\u5BF9\u8C61018"
+    400056: "\u5BF9\u8C61019"
+    400058: "\u5BF9\u8C61020"
+    400060: "\u5BF9\u8C61021"
+    400062: "\u5BF9\u8C61022"
+    400064: "\u5BF9\u8C61023"
+    400066: "\u5BF9\u8C61024"
+    400068: "\u5BF9\u8C61025"
+    2100000: 'Material #334'
+    2100002: 'Material #332'
+    2100004: 'Material #331'
+    2100006: _1_unfold3ddefault
+    2300000: Box010
+    2300002: Box143
+    2300004: default
+    2300006: "\u5BF9\u8C61001"
+    2300008: "\u5BF9\u8C61003"
+    2300010: "\u5BF9\u8C61004"
+    2300012: "\u5BF9\u8C61005"
+    2300014: "\u5BF9\u8C61006"
+    2300016: "\u5BF9\u8C61007"
+    2300018: "\u5BF9\u8C61008"
+    2300020: "\u5BF9\u8C61009"
+    2300022: "\u5BF9\u8C61010"
+    2300024: "\u5BF9\u8C61011"
+    2300026: "\u5BF9\u8C61016"
+    2300028: "\u5BF9\u8C61017"
+    2300030: "\u5BF9\u8C61018"
+    2300032: "\u5BF9\u8C61019"
+    2300034: "\u5BF9\u8C61020"
+    2300036: "\u5BF9\u8C61021"
+    2300038: "\u5BF9\u8C61022"
+    2300040: "\u5BF9\u8C61023"
+    2300042: "\u5BF9\u8C61024"
+    2300044: "\u5BF9\u8C61025"
+    3300000: Box010
+    3300002: Box143
+    3300004: default
+    3300006: "\u5BF9\u8C61001"
+    3300008: "\u5BF9\u8C61003"
+    3300010: "\u5BF9\u8C61004"
+    3300012: "\u5BF9\u8C61005"
+    3300014: "\u5BF9\u8C61006"
+    3300016: "\u5BF9\u8C61007"
+    3300018: "\u5BF9\u8C61008"
+    3300020: "\u5BF9\u8C61009"
+    3300022: "\u5BF9\u8C61010"
+    3300024: "\u5BF9\u8C61011"
+    3300026: "\u5BF9\u8C61016"
+    3300028: "\u5BF9\u8C61017"
+    3300030: "\u5BF9\u8C61018"
+    3300032: "\u5BF9\u8C61019"
+    3300034: "\u5BF9\u8C61020"
+    3300036: "\u5BF9\u8C61021"
+    3300038: "\u5BF9\u8C61022"
+    3300040: "\u5BF9\u8C61023"
+    3300042: "\u5BF9\u8C61024"
+    3300044: "\u5BF9\u8C61025"
+    4300000: "\u5BF9\u8C61003"
+    4300002: "\u5BF9\u8C61023"
+    4300004: "\u5BF9\u8C61022"
+    4300006: "\u5BF9\u8C61021"
+    4300008: "\u5BF9\u8C61024"
+    4300010: "\u5BF9\u8C61025"
+    4300012: "\u5BF9\u8C61020"
+    4300014: "\u5BF9\u8C61019"
+    4300016: "\u5BF9\u8C61018"
+    4300018: "\u5BF9\u8C61017"
+    4300020: "\u5BF9\u8C61016"
+    4300022: Box143
+    4300024: Box010
+    4300026: default
+    4300028: "\u5BF9\u8C61009"
+    4300030: "\u5BF9\u8C61010"
+    4300032: "\u5BF9\u8C61001"
+    4300034: "\u5BF9\u8C61004"
+    4300036: "\u5BF9\u8C61005"
+    4300038: "\u5BF9\u8C61011"
+    4300040: "\u5BF9\u8C61007"
+    4300042: "\u5BF9\u8C61008"
+    4300044: "\u5BF9\u8C61006"
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

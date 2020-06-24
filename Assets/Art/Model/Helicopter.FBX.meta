@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 3e257b1b5024cf440a6dd4086d3583b5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bucket
+    100002: Cockpit
+    100004: Details
+    100006: Door_Back_Left
+    100008: Door_Back_Right
+    100010: Door_Front_Left
+    100012: Door_Front_Right
+    100014: Door_Mid_Left
+    100016: Door_Mid_Right
+    100018: Fuselage
+    100020: Gear_Front
+    100022: Gear_Left
+    100024: Gear_Right
+    100026: //RootNode
+    100028: Interior
+    100030: Lighta
+    100032: Main_Rotor
+    100034: Mesh07
+    100036: Tail_Rotor
+    400000: Bucket
+    400002: Cockpit
+    400004: Details
+    400006: Door_Back_Left
+    400008: Door_Back_Right
+    400010: Door_Front_Left
+    400012: Door_Front_Right
+    400014: Door_Mid_Left
+    400016: Door_Mid_Right
+    400018: Fuselage
+    400020: Gear_Front
+    400022: Gear_Left
+    400024: Gear_Right
+    400026: //RootNode
+    400028: Interior
+    400030: Lighta
+    400032: Main_Rotor
+    400034: Mesh07
+    400036: Tail_Rotor
+    2100000: Foregrou
+    2100002: Exterior_Mat
+    2100004: Dark_Gray
+    2100006: Chrome
+    2100008: Base_Color
+    2100010: Black
+    2100012: dETAILS
+    2100014: Wheels_Black
+    2100016: Interior_NoGloss
+    2100018: Yellow
+    2100020: Glass
+    2100022: Interior_Glossy
+    2100024: Weapon_Metal
+    2100026: Cockpit_Mat
+    2100028: Rotor_Red
+    2100030: 'Rotor_Mat Slot #3'
+    2100032: Wheel
+    2100034: Gloss_Gray
+    2100036: Exterior_Sym
+    2100038: 'MainBody Slot #7'
+    2100040: Glass_Light
+    2300000: Bucket
+    2300002: Cockpit
+    2300004: Details
+    2300006: Door_Back_Left
+    2300008: Door_Back_Right
+    2300010: Door_Front_Left
+    2300012: Door_Front_Right
+    2300014: Door_Mid_Left
+    2300016: Door_Mid_Right
+    2300018: Fuselage
+    2300020: Gear_Front
+    2300022: Gear_Left
+    2300024: Gear_Right
+    2300026: Interior
+    2300028: Lighta
+    2300030: Main_Rotor
+    2300032: Mesh07
+    2300034: Tail_Rotor
+    3300000: Bucket
+    3300002: Cockpit
+    3300004: Details
+    3300006: Door_Back_Left
+    3300008: Door_Back_Right
+    3300010: Door_Front_Left
+    3300012: Door_Front_Right
+    3300014: Door_Mid_Left
+    3300016: Door_Mid_Right
+    3300018: Fuselage
+    3300020: Gear_Front
+    3300022: Gear_Left
+    3300024: Gear_Right
+    3300026: Interior
+    3300028: Lighta
+    3300030: Main_Rotor
+    3300032: Mesh07
+    3300034: Tail_Rotor
+    4300000: Mesh07
+    4300002: Bucket
+    4300004: Gear_Front
+    4300006: Door_Mid_Right
+    4300008: Interior
+    4300010: Door_Mid_Left
+    4300012: Door_Front_Left
+    4300014: Door_Back_Left
+    4300016: Cockpit
+    4300018: Tail_Rotor
+    4300020: Door_Front_Right
+    4300022: Gear_Right
+    4300024: Gear_Left
+    4300026: Door_Back_Right
+    4300028: Main_Rotor
+    4300030: Fuselage
+    4300032: Details
+    4300034: Lighta
+    7400000: Take 001
+    7400002: fly
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fly
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
